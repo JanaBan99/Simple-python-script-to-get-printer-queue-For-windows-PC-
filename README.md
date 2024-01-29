@@ -13,5 +13,12 @@ printer_name = "MJ8330 thermal printer test"    // only change this part in the 
 
 ############## This is how to add your printer to the system ##################
 
+1. Type "Printer" in the search bar.
+2. Printer & scanner icon appears. Click it.
+3. Then "Add a printer or scanner"
+   
+Then continue. 
+If the printer is not listed, click "The printer I want is not listed".
 
+Cheers Mate !!!
 
