@@ -11,5 +11,7 @@ Then replace the "MJ8330 thermal printer test" with your printer name.
 printer_name = "MJ8330 thermal printer test"    // only change this part in the code.
 
 
-############################################ This is how to add your printer to the system ###################################################
+############## This is how to add your printer to the system ##################
+
+
 
